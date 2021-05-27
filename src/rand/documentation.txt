@@ -21,3 +21,8 @@ version --0.4
 2} added substract function
 3} added multiply function
 4} added divide function
+
+version --0.5
+
+1} added a randish for import
+2} added rand_add function
