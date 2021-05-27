@@ -1,3 +1,7 @@
 li, p{
     font-family: 'Potta One', cursive;
 }
+body::selection{
+    color: crimson;
+    background-color: dodgerblue;
+}
