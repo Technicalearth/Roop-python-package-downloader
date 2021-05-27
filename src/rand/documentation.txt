@@ -1,0 +1,23 @@
+rand module is made by Roop.It make a random number with an input and more.
+
+RAND MODULE
+
+version --0.1
+
+1} added intrand function
+
+version --0.2
+
+1} added floatrand function
+
+version --0.3
+
+1} added odd function
+2} added even function
+
+version --0.4
+
+1} added add function
+2} added substract function
+3} added multiply function
+4} added divide function
