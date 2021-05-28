@@ -49,3 +49,7 @@ version --0.9 ---coming soon---
 
 1} added multi_substract function
 2} added multi_divide function
+3} fixed add function
+4} fixed multiply function
+5} fixed divide function
+6} fixed substract function
