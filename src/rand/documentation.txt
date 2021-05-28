@@ -53,3 +53,4 @@ version --0.9 ---coming soon---
 4} fixed multiply function
 5} fixed divide function
 6} fixed substract function
+7} fixed multi_multiply function
