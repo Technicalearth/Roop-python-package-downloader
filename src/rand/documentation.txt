@@ -38,4 +38,10 @@ version --0.7 ---latest---
 1} fixed rand_add function
 2} fixed rand_multiply function
 3} added rand_substract function
-4} add rand_divide function
+4} added rand_divide function
+
+version --0.8 ---coming soon---
+
+1} added multi_add function
+2} added multi_multiply function
+
