@@ -27,13 +27,13 @@ version --0.5
 1} added a randish file for import
 2} added rand_add function
 
-version --0.6 ---latest---
+version --0.6
 
 1} removed randish.py
 2} re-added rand_add function
 3} added rand_multiply function
 
-version --0.7 ---coming soon---
+version --0.7 ---latest---
 
 1} fixed rand_add function
 2} fixed rand_multiply function
