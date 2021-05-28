@@ -40,12 +40,12 @@ version --0.7
 3} added rand_substract function
 4} added rand_divide function
 
-version --0.8 ---latest---
+version --0.8 
 
 1} added multi_add function
 2} added multi_multiply function
 
-version --0.9 ---coming soon---
+version --0.9 ---latest---
 
 1} added multi_substract function
 2} added multi_divide function
@@ -54,3 +54,8 @@ version --0.9 ---coming soon---
 5} fixed divide function
 6} fixed substract function
 7} fixed multi_multiply function
+
+version --1.0 ---coming soon---
+
+1} added two_rand function
+2} added three_rand function
