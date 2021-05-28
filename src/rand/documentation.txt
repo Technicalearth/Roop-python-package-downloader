@@ -27,7 +27,7 @@ version --0.5
 1} added a randish file for import
 2} added rand_add function
 
-version --0.6  ---coming soon---
+version --0.6  ---latest---
 
 1} removed randish.py
 2} re-added rand_add function
