@@ -45,7 +45,7 @@ version --0.8
 1} added multi_add function
 2} added multi_multiply function
 
-version --0.9 ---latest---
+version --0.9
 
 1} added multi_substract function
 2} added multi_divide function
@@ -55,7 +55,12 @@ version --0.9 ---latest---
 6} fixed substract function
 7} fixed multi_multiply function
 
-version --1.0 ---coming soon---
+version --1.0 ---Latest---
 
 1} added two_rand function
 2} added three_rand function
+
+version --1.1 ---coming soon---
+
+1} added ten_rand function
+2} added twenty_rand function
