@@ -55,12 +55,17 @@ version --0.9
 6} fixed substract function
 7} fixed multi_multiply function
 
-version --1.0 ---Latest---
+version --1.0
 
 1} added two_rand function
 2} added three_rand function
 
-version --1.1 ---coming soon---
+version --1.1 ---Latest---
+
+1} fixed three_rand function
+2} fixed multi_divide function
+
+version --1.2 ---Coming Soon---
 
 1} added ten_rand function
 2} added twenty_rand function
