@@ -77,3 +77,5 @@ version --1.3 ---Coming Soon---
 
 1} added thirty_rand function
 2} added fourty_rand function
+3} fixed ten_rand function
+4} fixed twenty_rand function
