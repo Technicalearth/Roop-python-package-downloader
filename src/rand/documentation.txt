@@ -73,13 +73,13 @@ version --1.2
 4} fixed rand_multiply function
 5} fixed rand_substract function
 
-version --1.3 ---Latest---
+version --1.3
 
 1} added thirty_rand function
 2} added fourty_rand function
 3} fixed ten_rand function
 4} fixed twenty_rand function
 
-version --1.4 ---Coming soon---
+version --1.4 ---Latest---
 
 1} added randon
