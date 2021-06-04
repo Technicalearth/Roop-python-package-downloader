@@ -87,3 +87,4 @@ version --1.4 ---Latest---
 version --1.5 ---Coming soon---
 
 1} fixed randon
+2} added guess_the_number function
